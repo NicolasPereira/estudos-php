@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/php-logo.png">
+    <img src="assets/php-logo.png" widht="200px" height="140px">
 </div>
 
 # Estudos PHP
