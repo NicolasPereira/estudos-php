@@ -17,5 +17,14 @@ Os materias utilizados durante o aprendizado de processo deste repositório fora
 [Alura](https://www.alura.com.br/)
 [PHP4Noobs](https://github.com/DanielHe4rt/php4noobs)
 [Livro - PHP Programando Orientado a Objetos - Pablo Dall’Oglio](https://www.amazon.com.br/Php-Programando-com-Orienta%C3%A7%C3%A3o-Objetos/dp/8575226916)
+
+## Conteúdo
+- 1 - Básico do PHP
+  - [1.1 - O que é o PHP](docs/1-fundamentos/)
+  - [1.2 - Entendendo o arquivo de configuração.](docs/1-fundamentos/)
+  - [1.3 - Estrutura do código fonte.](docs/1-fundamentos/)
+  - [1.4 - Comentando seu código.](docs/1-fundamentos/)
+  - [1.5 - Tipos de Output.](docs/1-fundamentos/)
+  - [1.6 - Tipos de váriaveis](docs/1-fundamentos/)
 ### Contribuidores
 Nicolas Pereira - [Linkedin](https://www.linkedin.com/in/nicolas-pereira/) | [Twitter](twitter.com/devnic_)
