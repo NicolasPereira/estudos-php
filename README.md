@@ -20,11 +20,12 @@ Os materias utilizados durante o aprendizado de processo deste repositório fora
 
 ## Conteúdo
 - 1 - Básico do PHP
-  - [1.1 - O que é o PHP](docs/1-fundamentos/who-is-php.md)
-  - [1.2 - Entendendo o arquivo de configuração.](docs/1-fundamentos/)
-  - [1.3 - Estrutura do código fonte.](docs/1-fundamentos/)
-  - [1.4 - Comentando seu código.](docs/1-fundamentos/)
-  - [1.5 - Tipos de Output.](docs/1-fundamentos/)
-  - [1.6 - Tipos de váriaveis](docs/1-fundamentos/)
+  - [1.1 - O inicío do PHP](docs/1-fundamentos/who-is-php.md)
+  - [1.2 - Entendendo sobre o PHP](docs/1-fundamentos/about-php.md)
+  - [1.3 - Entendendo o arquivo de configuração.](docs/1-fundamentos/)
+  - [1.4 - Estrutura do código fonte.](docs/1-fundamentos/)
+  - [1.5 - Comentando seu código.](docs/1-fundamentos/)
+  - [1.6 - Tipos de Output.](docs/1-fundamentos/)
+  - [1.7 - Tipos de váriaveis](docs/1-fundamentos/)
 ### Contribuidores
 Nicolas Pereira - [Linkedin](https://www.linkedin.com/in/nicolas-pereira/) | [Twitter](twitter.com/devnic_)
