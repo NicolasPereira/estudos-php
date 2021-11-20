@@ -2,7 +2,7 @@
 <h2 align="center">PHP</h2>
 
 <p align="center">
-   Entendendo o que é o PHP e para que serve!
+   Um pouco da história do PHP
 </p>    
  <!-- ABOUT THE TOPIC -->
 <hr>
