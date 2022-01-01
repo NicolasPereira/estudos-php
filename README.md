@@ -22,7 +22,7 @@ Os materias utilizados durante o aprendizado de processo deste repositório fora
 - 1 - Básico do PHP
   - [1.1 - O inicío do PHP](docs/1-fundamentos/who-is-php.md)
   - [1.2 - Entendendo sobre o PHP](docs/1-fundamentos/about-php.md)
-  - [1.3 - Entendendo o arquivo de configuração.](docs/1-fundamentos/)
+  - [1.3 - Entendendo o arquivo de configuração.](docs/1-fundamentos/php-ini.md)
   - [1.4 - Estrutura do código fonte.](docs/1-fundamentos/)
   - [1.5 - Comentando seu código.](docs/1-fundamentos/)
   - [1.6 - Tipos de Output.](docs/1-fundamentos/)
